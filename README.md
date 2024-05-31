@@ -19,3 +19,7 @@ In this project, hand gestures detected by the system are used to control LEDs c
 ### Servo Control with Hand Poses
 
 Using MediaPipe's pose estimation module, this project tracks the position and orientation of the hand in space. By correlating hand poses with servo motor movements, the system enables users to manipulate physical objects or robotic systems with natural hand gestures.
+
+### Other Projects
+
+Using Mediapipe pose estimation module theese projects can control volume of your laptop or pc and creating a virtual keyboard.
